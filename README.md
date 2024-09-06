@@ -1,13 +1,11 @@
-# Guía-de-estilos
+# Guía de estilos
 * Diseño de Interfaces - Creación de una guía de estilos para una aplicación
-El objetivo de esta práctica es crear una pequeña guía de estilos siguiendo las recomendaciones expuestas en:
-- https://pedroprieto.github.io/post/planificacion-fundamentos/
-- https://pedroprieto.github.io/post/planificacion-guia-estilo/
+El objetivo de esta práctica es crear una pequeña guía de estilos.
 
-** Temática
+## Temática
 La temática de la aplicación de la que se pretende crear la guía de estilos es *libre*. Si a alguien no se le ocurre ningún tema puede elegir por ejemplo el sector del *comercio online* (una tienda, por ejemplo).
 
-** Contenidos
+## Contenidos
 La guía de estilos deberá incluir:
 - *Nombre y apellidos* del autor al comienzo del documento.
 - Breve *descripción de las características* indicando qué información va a albergar la aplicación a diseñar.
@@ -18,7 +16,7 @@ La guía de estilos deberá incluir:
 - *Elementos gráficos* con referencia a iconos, formatos de imagen, etc.
 - Cualquier otra información considerada de interés.
 
-** Formato de la entrega
+## Formato de la entrega
 - Cada alumno dispondrá de un repositorio en GitHub para su trabajo personal. Dicho repositorio se creará automáticamente al hacer clic en el enlace y aceptar la tarea (/assignment/).
 - Todos los archivos de la práctica se guardarán en el repositorio y se subirán a GitHub periódicamente. Es conveniente ir subiendo los cambios aunque no sean definitivos.
 - La guía de estilos se realizará en cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
