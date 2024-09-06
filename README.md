@@ -9,10 +9,10 @@ La temática de la aplicación de la que se pretende crear la guía de estilos e
 La guía de estilos deberá incluir:
 - *Nombre y apellidos* del autor al comienzo del documento.
 - Breve *descripción de las características* indicando qué información va a albergar la aplicación a diseñar.
-- *Tipografías* a utilizar, incluyendo una imagen de cada tipo de letra a utilizar. En [[https://fonts.google.com/][Google Fonts]] están disponibles.
+- *Tipografías* a utilizar, incluyendo una imagen de cada tipo de letra a utilizar. En [Google Fonts](https://fonts.google.com/) están disponibles.
 - *Gama de colores*, incluyendo como mínimo un color principal, un color de fondo o contraste y una gama de colores complementarios del color principal.
-- Un *logo* diseñado con el programa [[https://inkscape.org/es/][Inkscape]]. Puedes utilizar el [[https://youtu.be/zhnAHqQQ9gc][videotutorial incluido en el curso]] como referencia. El logo debe incluir un *texto con tu nombre y apellidos*.
-- Referencia al tipo de *estructura de capas* que se utilizará. Para este punto puedes hacer un pequeño diagrama con el propio programa [[https://inkscape.org/es/][Inkscape]] o utilizar alguna herramienta online como https://www.draw.io/. Este tema se desarrollará más adelante en el apartado de prototipos, así que lo que se pide es un diseño muy sencillo basado exclusivamente en *bloques o cajas*.
+- Un *logo* diseñado con el programa [Inkscape](https://inkscape.org/es/). Puedes utilizar el [videotutorial incluido en el curso](https://youtu.be/zhnAHqQQ9gc) como referencia. El logo debe incluir un *texto con tu nombre y apellidos*.
+- Referencia al tipo de *estructura de capas* que se utilizará. Para este punto puedes hacer un pequeño diagrama con el propio programa [Inkscape](https://inkscape.org/es/) o utilizar alguna herramienta online como [Draw Io](https://www.draw.io/). Este tema se desarrollará más adelante en el apartado de prototipos, así que lo que se pide es un diseño muy sencillo basado exclusivamente en *bloques o cajas*.
 - *Elementos gráficos* con referencia a iconos, formatos de imagen, etc.
 - Cualquier otra información considerada de interés.
 
