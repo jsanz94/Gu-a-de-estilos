@@ -22,5 +22,5 @@ La guía de estilos deberá incluir:
 - La guía de estilos se realizará en cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
 - La guía debe ser breve (*no más de 3 páginas*) y estar correctamente maquetada.
 - Se deberá incluir el *logo* en formato ```SVG``` y ```PNG``` dentro del repositorio.
-- Para cualquier tipo de *duda o consulta* se pueden abrir ~Issues~ haciendo referencia al profesor mediante el texto ```@jsanz94``` dentro del texto del ```Issue```.
+- Para cualquier tipo de *duda o consulta* se pueden abrir ```Issue``` haciendo referencia al profesor mediante el texto ```@jsanz94``` dentro del texto del ```Issue```.
 - Una vez *finalizada* la tarea se debe crear un ```Issue``` en el repositorio haciendo referencia al profesor incluyendo el texto ```@jsanz94``` dentro del ```Issue```.
