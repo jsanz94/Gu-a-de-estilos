@@ -21,6 +21,6 @@ La guía de estilos deberá incluir:
 - Todos los archivos de la práctica se guardarán en el repositorio y se subirán a GitHub periódicamente. Es conveniente ir subiendo los cambios aunque no sean definitivos.
 - La guía de estilos se realizará en cualquier programa de *edición de textos* (LibreOffice Writer, Microsoft Word,...) o equivalente, pero se *deberá guardar en el repositorio en formato PDF*.
 - La guía debe ser breve (*no más de 3 páginas*) y estar correctamente maquetada.
-- Se deberá incluir el *logo* en formato ~SVG~ y ~PNG~ dentro del repositorio.
-- Para cualquier tipo de *duda o consulta* se pueden abrir ~Issues~ haciendo referencia al profesor mediante el texto ~@pedroprieto~ dentro del texto del ~Issue~.
-- Una vez *finalizada* la tarea se debe crear un ~Issue~ en el repositorio haciendo referencia al profesor incluyendo el texto ~@pedroprieto~ dentro del ~Issue~.
+- Se deberá incluir el *logo* en formato ```SVG``` y ```PNG``` dentro del repositorio.
+- Para cualquier tipo de *duda o consulta* se pueden abrir ~Issues~ haciendo referencia al profesor mediante el texto ```@jsanz94``` dentro del texto del ```Issue```.
+- Una vez *finalizada* la tarea se debe crear un ```Issue``` en el repositorio haciendo referencia al profesor incluyendo el texto ```@jsanz94``` dentro del ```Issue```.
